@@ -460,7 +460,6 @@ function isHtml(e) {
     }
 }
 
-
 userInput.addEventListener('keydown', e => {
     if (e.key == 'Enter') {
         const userInputValue = userInput.value;
